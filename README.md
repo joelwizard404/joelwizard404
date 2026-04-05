@@ -1,7 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on AufurWizard
-⭐️ I'm best at Python
-
+🔭 I’m currently working on AufurWizard and RapidForge.
+<br>
+🏋️ I’m strongest in Python and JavaScript. I also have solid experience with TypeScript and React, and I’m comfortable working with MySQL.
+<br>
+🗑️ AufurWizard - Secure File Shredder
+<br>
+💻 RapidForge - luau Library
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:foldix@tuta.io) 
