@@ -1,10 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on AufurWizard and RapidForge.
-<br>
+<br><br>
 🏋️ I’m strongest in Python and JavaScript. I also have solid experience with TypeScript and React, and I’m comfortable working with MySQL.
-<br>
+<br><br>
 🗑️ AufurWizard - Secure File Shredder
-<br>
+<br><br>
 💻 RapidForge - luau Library
 
 ## 🌐 Socials:
