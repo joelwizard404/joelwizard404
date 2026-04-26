@@ -1,3 +1,5 @@
+<img width="1500" height="500" alt="wideStudlyCase" src="https://github.com/user-attachments/assets/72d6063b-109d-4f48-9d88-45e19ecbdc56" />
+
 # 💫 About Me:
 🔭 I’m currently working on RapidForge<br>🌱 I’m currently learning Java
 
@@ -12,10 +14,10 @@
 ![](https://streak-stats.demolab.com/?user=StudlyCase&theme=prussian&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=StudlyCase&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=StudlyCase&theme=synthwave&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+# ✨ Projects
+<img width="720" height="228" alt="RapidForge icon" src="https://github.com/user-attachments/assets/32ed8902-acc3-40cf-bb23-387fd94d45aa" href="https://github.com/StudlyCase/RapidForge" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
